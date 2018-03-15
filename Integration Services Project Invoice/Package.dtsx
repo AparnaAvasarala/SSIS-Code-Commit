@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="3/15/2018 1:13:42 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="AVASARALA-T450S"
+  DTS:CreatorName="ACE\aparna.avasarala"
+  DTS:DTSID="{22C03703-2489-4497-9376-396112FB1D25}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="14.0.3002.92"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{49BB8DCB-4B36-49E7-BAEE-3578338EB16A}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
